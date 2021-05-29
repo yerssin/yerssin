@@ -4,7 +4,7 @@
 <hr>
 <h1 align="center">Hola<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">mi nombre es Yerssin</h1>
 
-### Portfolio: https://brdhanani.github.io
+### Portafolio:
 
 <a href="https://twitter.com/dhanani_brijesh">
   <img align="left" alt="Brijesh Dhanani | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
